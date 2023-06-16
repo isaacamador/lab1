@@ -1,2 +1,2 @@
-laboratorio 
-lista de tarea 
+# laboratorio
+# lista de tareea 
